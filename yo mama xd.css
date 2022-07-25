@@ -1,26 +1,25 @@
 /**
- * @name Custon oiliaN BR
- * @author yo mama xd
- * @version yo mama xd
- * @source yo mama xd
- * @website https://commandcrafterhd.github.io/Fallout4TerminalTheme
- * @donate yo mama xd
- * @patreon yo mama xd
- * @description yo mama xd
- * @authorId yo mama xd
+ * @name Fallout 4 Terminal
+ * @author Bates#7075
+ * @version 1.0.0
+ * @source https://github.com/colbymm254/discordthing
+ * @website https://github.com/colbymm254/discordthing
+ * @donate https://www.paypal.com/paypalme/floriancegledi
+ * @patreon https://patreon.com/bates
+ * @description A theme inspired by Fallout 4's terminals!
+ * @authorId 137259132305539072
 */
 
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/main.css');
+@import url('');
 
 /* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
 
 /* REMOVE THIS LINE TO UNCOMMENT
 
 :root {
-  --background: #4d1f7d !important;
-  --text-color: #5e5204 !important;
+  --background: #000000 !important;
+  --text-color: #4AEF98 !important;
   --highlight: var(--text-color) !important;
 }
 
    REMOVE THIS LINE TO UNCOMMENT ASWELL */
-  
